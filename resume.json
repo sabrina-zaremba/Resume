@@ -1,0 +1,126 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "skills": "Skills"
+  },
+  "basics": {
+    "name": "Sabrina Zaremba",
+    "phone": "",
+    "location": {
+      "address": "Cleveland, OH"
+    },
+    "email": "sabz8720@gmail.com",
+    "website": "https://github.com/sabrina-zaremba"
+  },
+  "education": [
+    {
+      "institution": "Highland High School",
+      "location": "Medina, OH",
+      "studyType": "HS Diploma",
+      "startDate": "Aug 2024",
+      "endDate": "May 2028",
+      "gpa": "4.35"
+    },
+    {
+      "institution": "Cuyahoga Community College",
+      "location": "Cleveland, OH",
+      "startDate": "Aug 2024",
+      "endDate": "May 2028",
+      "area": "Computer Science",
+      "gpa": "4.0",
+      "studyType": "AA"
+    }
+  ],
+  "work": [
+    {
+      "company": "Zaremba Management Company",
+      "location": "Fairview Park, OH",
+      "position": "Office Assistant",
+      "website": "",
+      "endDate": "Aug 2023",
+      "highlights": [
+        "Filing and sorting miscellaneous office files.",
+        "Inventory and stocking office supplies.",
+        "Answering and directing incoming calls."
+      ],
+      "startDate": "June 2023"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Honors Algebra",
+        "Honors Geometry"
+      ],
+      "name": "Mathematics"
+    },
+    {
+      "keywords": [
+        "Python",
+        "HTML / CSS"
+      ],
+      "name": "Programming"
+    },
+    {
+      "keywords": [
+        "Speech & Debate"
+      ],
+      "name": "Public Speaking"
+    },
+    {
+      "keywords": [
+        "Honors Society",
+        "DARE",
+        "Leading Projects"
+      ],
+      "name": "Leadership"
+    },
+    {
+      "keywords": [
+        "Collaboration",
+        null
+      ],
+      "name": "Teamwork"
+    }
+  ],
+  "projects": [
+    {
+      "url": "",
+      "keywords": [
+        "PC Part Knowledge",
+        "Research",
+        ""
+      ],
+      "name": "PC Building",
+      "description": "Building custom PCs for myself, friends, and family."
+    },
+    {
+      "keywords": [
+        "HTML / CSS",
+        "React",
+        "C# / NET9",
+        "Mongo DB"
+      ],
+      "name": "Tamagotchi Clone (In-Progress)",
+      "description": "Web application for a taking care of a virtual Tamagotchi-like pet."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Honor Roll",
+      "date": "2021-2024",
+      "summary": "",
+      "awarder": "Highland Middle School"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
